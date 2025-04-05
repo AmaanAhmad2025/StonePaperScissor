@@ -1,4 +1,4 @@
-# 🪨📄✂️ Stone Paper Scissors Game
+# Stone Paper Scissors Game
 
 A simple web-based **Stone Paper Scissors** game built using HTML, CSS, and JavaScript. Play the classic game directly in your browser!
 
